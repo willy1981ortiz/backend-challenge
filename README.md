@@ -42,6 +42,9 @@ Using your preferred technology, please implement the following features:
 - As a user, I should be able to delete a blogger
 - As a user, I should be able to search bloggers by email and website
 
-## Deploy
+## Delivery
 
-Feel free to deploy your application to a free service like Heroku.  
+We want to see your application working and code:
+
+1. Deploy your application to a free service like Heroku.
+1. To upload your code please clone this repository and when you're ready please create a new PR from your personal branch to the main branch. Assign your PR to Rodolfo Islas or Gabriel Paredes.
