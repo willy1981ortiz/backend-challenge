@@ -1,23 +1,47 @@
-# Backend challenge
+# Backend Challenge
 
 ## Description
 
-[Descripcion de lo que va a hacer el API]
+For this challenge you will be creating a basic REST API for managing your favorite bloggers. You will be able to:
 
-## Instructions
+- Add a new blogger with their information
+- View a list of your favorite bloggers
+- Associate bloggers to each other
+- Basic search functionality
 
-Using [la tecnologia que utilices] we would like you to create a simple expert search tool. The application should fulfill the requirements below. The source code must be placed in a public repo on GitHub. The application should be deployable on Heroku.
+## Requirements
 
-- Create an API that meets the following:
+Your project should include the following:
 
-## Features
-
-- I enter a name, a personal website address, picture and a member is created.
-- The website url is shortened (e.g. using http://goo.gl)
-- After the member has been added, I can define their friendships with other existing members. Friendships are bi-directional i.e. If Sasha is a friend of Ash, Ash is always a friend of Sasha as well.
-- I should be able to find users by name or website address
 - Your application must containt automated tests
-- Your project should include a README with instructions:
+- Your project must include a README with instructions:
   - How to install dependencies
   - How to run tests
   - How to run in development
+
+## Features
+
+Using your preferred technology, please implement the following features:
+
+- As a user, I should be able to create a new favorite blogger with the following information:
+  - Name
+  - Email
+  - Website
+  - Picture
+- As a user, I should be able to view a list of my favorite bloggers with their basic information:
+  - Picture
+  - Name
+  - Website
+- As a user, I should be able to view the details of one blogger:
+  - Picture
+  - Name
+  - Website
+  - Email
+  - Friends
+- As a user, I should be able to add a blogger as another blogger's friend (one blogger has many blogger friends)
+- As a user, I should be able to delete a blogger
+- As a user, I should be able to search bloggers by email and website
+
+## Deploy
+
+Feel free to deploy your application to a free service like Heroku.  
