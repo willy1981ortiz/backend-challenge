@@ -47,4 +47,4 @@ Using your preferred technology, please implement the following features:
 We want to see your application working and code:
 
 1. Deploy your application to a free service like Heroku.
-1. To upload your code please clone this repository and when you're ready please create a new PR from your personal branch to the main branch. Assign your PR to Rodolfo Islas or Gabriel Paredes.
+1. To upload your code please clone this repository and when you're ready please create a new PR from your personal branch to the main branch. Assign your PR to Rodolfo Islas.
